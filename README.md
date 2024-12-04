@@ -48,7 +48,4 @@ Each folder contains detailed examples showing how to:
 2. Train and evaluate the algorithms
 3. Visualize results and performance metrics
 
-# 📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Happy Learning! 😊
